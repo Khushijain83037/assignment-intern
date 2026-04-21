@@ -1,0 +1,5 @@
+Full Name:  Khushi Jain
+Linkedin: https://www.linkedin.com/in/khushi-jain-570a3a271/
+Email:      khushijain.9919@gmail.com
+GitHub:     https://github.com/Khushijain83037
+Challenge:  The most challenging part was the Clerk JWT verification flow — ensuring publicMetadata role was correctly embedded in tokens and verified server-side on every protected API call without an extra DB lookup.
