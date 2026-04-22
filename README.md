@@ -14,11 +14,11 @@
 
 | Role               | Email                          | Password     |
 |--------------------|--------------------------------|--------------|
-| Student            | student.test@yopmail.com       | Khushi@1234  |
-| Trainer            | trainer.test@yopmail.com       | Khushi@1234  |
-| Institution Admin  | institution.test@yopmail.com   | Khushi@1234  |
-| Programme Manager  | manager.test@yopmail.com       | Khushi@1234  |
-| Monitoring Officer | monitor.test@yopmail.com       | Khushi@1234  |
+| Student            | student.test@yopmail.com       | Khushi@12@34  |
+| Trainer            | trainer.test@yopmail.com       | Khushi@12@34  |
+| Institution Admin  | institution.test@yopmail.com   | Khushi@12@34  |
+| Programme Manager  | manager.test@yopmail.com       | Khushi@12@34  |
+| Monitoring Officer | monitor.test@yopmail.com       | Khushi@12@34  |
 
 > Note: These use yopmail.com disposable inboxes. Email verification codes can be viewed at yopmail.com by typing the email address.
 
